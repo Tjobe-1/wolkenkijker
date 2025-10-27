@@ -46,7 +46,8 @@ The lens assembly looks best printed in resin. I used [JLC3DP](https://jlc3dp.co
 - Ground glass can be substituted with pre-ground glass. Baking sheets were used as placeholders during prototyping.
 
 ## Contribute
-💡 **Want to contribute?** Fork the repo, submit pull requests, or share your build photos!
+- **Want to contribute?** Fork the repo, submit pull requests, or share your build photos!
+- **Credit & Remixing:** If you build a Wolkenkijker, I’d love to hear about it! Please credit this project, and consider linking back here if you remix or share your own version.
 
 ---
 **Version**: 1.0  
