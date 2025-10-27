@@ -1,7 +1,13 @@
 # Wolkenkijker building instructions
 Welcome to the Wolkenkijker instruction page! This repository contains all the files you need to build your own Wolkenkijker, or modify it to your liking. The instructions below assume you want to build a perfect copy. However, the Fusion360 file is included so you can customize the design.
 
+**Wolkenkijker?** 
+
+_Wolkenkijker captures the endless sky in a frame for your windowsill._\
+Wolkenkijker (Cloud Viewer) frames what is always above us: the clouds. In an age where everything that deserves attention is given a frame, this object elevates the everyday into something worth exhibiting. The infinity of the sky is reduced to the intimacy of a picture frame – something small you can cherish and place on your windowsill. Inspired by Anish Kapoor’s Sky Mirror and the waist-level viewfinders of analog cameras, Wolkenkijker offers a second-degree way of observing: why do we insist on viewing everything through a frame, when sometimes we could simply look up? ([Tjeu'Studio](https://tjeu.studio/shop/wolkenkijker/))
+
 ![Image of a finished Wolkenkijker](Pictures/Composite.jpg)
+_Note: this picture is of an earlier version. The version you will be making here has larger rivets, and one less rivet than pictured._
 
 ## Table of Contents
 1. [Bill of Materials](#bill-of-materials)
