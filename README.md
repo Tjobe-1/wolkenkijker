@@ -21,7 +21,7 @@ _Note: this picture is of an earlier version. The version you will be making her
 ## Bill of materials
 - Picture frame glass (min. 100 x 100 mm, thickness 1 mm)
 - Silicon carbide grinding powder (400 and 600 grit)
-- [Biconvex lens](https://nl.aliexpress.com/item/1005007494613338.html?spm=a2g0o.order_list.order_list_main.26.54b81802VggjWI&gatewayAdapt=glo2nld) (D50F95.5 mm)
+- [Biconvex lens](https://nl.aliexpress.com/item/1005007494613338.html?spm=a2g0o.order_list.order_list_main.26.54b81802VggjWI&gatewayAdapt=glo2nld) (D 50 F 95.5 mm)
 - [Fresnel lens](https://nl.aliexpress.com/item/1005008116547795.html?spm=a2g0o.order_list.order_list_main.31.54b81802VggjWI&gatewayAdapt=glo2nld) (focal length 120 mm, dimensions 100 x 100 mm)
 - [Front surface mirror](https://nl.aliexpress.com/item/1005004853298387.html?spm=a2g0o.order_list.order_list_main.16.54b81802VggjWI&gatewayAdapt=glo2nld) 123 x 100 mm, thickness 1.1 mm. [This supplier](https://www.aliexpress.com/store/1100386575?spm=a2g0o.detail.0.0.79d4c7iEc7iE3z) makes custom sized mirrors.
 - [Push rivets](https://nl.aliexpress.com/item/1005008732939550.html?spm=a2g0o.order_list.order_list_main.21.54b81802VggjWI&gatewayAdapt=glo2nld) (get the [R3535 in black](Manufacturing/Push%20rivet%20specs.jpeg), picture linked for specifications)
@@ -37,16 +37,18 @@ Download the [3D print files](Manufacturing/3D%20Print/).
 
 The lens assembly looks best printed in resin. I used [JLC3DP](https://jlc3dp.com/) for printing.
 
-## Grind the ground glass
+## Grind the ground glass and cut fresnel lens
 1. Cut the glass to size (100 x 90 mm)
 2. Sand down the sharp edges of the glass
 3. Grind the glass following [this video tutorial](https://www.youtube.com/watch?v=RVCxuESAiCw).
+4. Cut the fresnel lens to the same size as the glass
 
 ⚠️ **Safety Tip**: Wear gloves and eye protection when cutting or grinding glass. 
 
 ## Assemble your Wolkenkijker
 1. Adhere the mirror to the bottom aluminium plate using your preferred adhesive.
-2. Follow the [assembly instructions PDF](Assembly%20manual/Wolkenkijker%20assembly%20instruction.pdf).
+2. Sanwich the glass and fresnel lens together, and use the glass connector pieces to keep them stuck together. The smooth side of the fresnel lens and the ground side of the glass should be paired up. 
+3. Follow the [assembly instructions PDF](Assembly%20manual/Wolkenkijker%20assembly%20instruction.pdf).
 
 ## Possible Alternative Materials
 - Aluminium parts can be replaced by other sheet materials. The files are based on 1 mm thickness. Cardboard prototypes worked well.
